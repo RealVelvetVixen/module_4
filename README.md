@@ -2,4 +2,4 @@
 @Всевидящий Лосось
 
 ## ДЗ:
-[1. Ассимптотическая сложность и GIT](https://github.com/RealVelvetVixen/module_4/blob/main/1%20Lesson/1_lesson_hw.py)
+[1. Ассимптотическая сложность и GIT](https://github.com/RealVelvetVixen/module_4/blob/main/1%20Lesson/)
