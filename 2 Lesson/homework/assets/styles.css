@@ -1,0 +1,27 @@
+h1 {
+background:aqua;
+}
+
+.paragraph-1
+ {
+background:lightcyan;
+font-size: 32pt;
+color:gray
+}
+
+.paragraph-2
+ {
+border: 10px solid pink;
+border-radius:5px;
+font-size: 22pt;
+margin-bottom: 60px;
+padding-top: 80px;
+padding-left: 100px;
+}
+
+.paragraph-3
+ {
+font-weight: 900;
+font-size:18px;
+font-family: "Courier New";
+}
