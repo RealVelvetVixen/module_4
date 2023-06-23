@@ -25,3 +25,38 @@ font-weight: 900;
 font-size:18px;
 font-family: "Courier New";
 }
+
+.paragraph-4
+ {
+
+}
+
+.paragraph-4 {
+text-align: center;
+font-style: italic;
+font-size: 24px;
+text-shadow: green;
+text-shadow:
+    1px 1px 0 hsl(122, 55%, 55%),
+    2px 2px 0 hsl(122, 55%, 55%),
+    3px 3px 0 hsl(122, 55%, 55%),
+    4px 4px 0 hsl(122, 55%, 55%),
+    5px 5px 0 hsl(122, 55%, 55%),
+    6px 6px 0 hsl(122, 55%, 55%),
+    7px 7px 0 hsl(122, 55%, 55%),
+    8px 8px 0 hsl(122, 55%, 55%);
+transition: all 1s;
+}
+
+.paragraph-4:hover {
+  text-shadow:
+    1px -1px 0 hsl(290,100%,40%),
+    2px -2px 0 hsl(290,100%,40%),
+    3px -3px 0 hsl(280,100%,60%),
+    4px -4px 0 hsl(280,100%,60%),
+    5px -5px 0 hsl(270,100%,75%),
+    6px -6px 0 hsl(270,100%,80%),
+    7px -7px 0 hsl(260,100%,85%),
+    8px -8px 0 hsl(260,100%,90%);
+  color: hsl(300,100%,30%);
+}
