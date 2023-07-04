@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Credit Card</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid velvet-nav">
+    <a class="navbar-brand velvet-brand" href="#">Velvet Vixen</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Переключатель навигации">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-link active" aria-current="page" href="#">Главная</a>
+        <a class="nav-link" href="./about.html">О нас</a>
+      </div>
+    </div>
+  </div>
+</nav>
+<center>
+    <form action="">
+    <label for="field1" class="badge bg-primary text noselect" style="margin-top: 10px; margin-bottom: 3px; font-size: .9rem;">Введите информацию о вашей банковской карте:</label>
+    <input class="form-control form-control-lg" type="text" id="field1">
+    <br>
+
+    <label for="field3" class="badge bg-primary text noselect" style="margin-top: 10px; margin-bottom: 3px; font-size: .9rem;">Введите ваш CVV код:</label>
+    <input class="form-control" type="password" id="field3" aria-describedby="passwordHelpBlock">
+
+    <div id="passwordHelpBlock" class="form-text">
+  Введите 3 цифры с оборота карты.
+</div>
+<br><br>
+  <textarea class="span6" rows="3" placeholder="Напишите комментарий" required></textarea>
+    <br><br>
+    <input class="btn btn-outline-success" type="submit" value="Отправить данные правильным людям!">
+
+<br><br><br>
+<label for="field2" class="badge bg-primary text noselect">Согласны ли вы на обработку ваших данных?</label>
+    <input class="form-check-input" type="checkbox" id="field2">
+    
+
+</form>
+</center>
+
+</body>
+</html>
