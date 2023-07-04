@@ -6,3 +6,5 @@
 
 [2. HTML и CSS](https://github.com/RealVelvetVixen/module_4/tree/main/2%20Lesson/homework) 
 
+[3. Bootstrap](https://github.com/RealVelvetVixen/module_4/tree/main/3%20Lesson/homework)
+
