@@ -8,3 +8,5 @@
 
 [3. Bootstrap](https://github.com/RealVelvetVixen/module_4/tree/main/3%20Lesson/homework)
 
+[4. Введение в фреймворк Django](https://github.com/RealVelvetVixen/module_4/tree/main/4%20Lesson/homework)
+
