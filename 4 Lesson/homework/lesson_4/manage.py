@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+# secret word by Velvet Vixen
 import os
 import sys
 
