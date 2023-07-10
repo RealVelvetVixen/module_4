@@ -1,5 +1,9 @@
 # Домашняя работа
+<<<<<<< HEAD
 
+=======
+### gif сайта
+>>>>>>> origin/main
 ![](https://github.com/RealVelvetVixen/module_4/assets/79484825/3aac08a5-3cf3-45f9-9f44-a958a5e85973)
 
 
