@@ -10,3 +10,5 @@
 
 [4. Введение в фреймворк Django](https://github.com/RealVelvetVixen/module_4/tree/main/4%20Lesson/homework)
 
+
+[5. Слой Template Django](https://github.com/RealVelvetVixen/module_4/tree/main/5%20Lesson/homework)
